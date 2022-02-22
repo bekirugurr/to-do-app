@@ -144,3 +144,9 @@ main {
 .delete-button:hover {
   background-image: url(./images/cross2.png);
 }
+
+@media screen and (max-width: 550px) {
+  .to-do-content {
+    width: 16rem;
+  }
+}
